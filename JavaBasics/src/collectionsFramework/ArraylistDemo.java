@@ -13,6 +13,8 @@ public class ArraylistDemo {
 		cities.add("Tokyo");
 		cities.add("New York");
 		cities.add("New Delhi");
+		
+		//Adding a comment at line 17
 
 //		for (String t : cities) {
 //			System.out.println(t);

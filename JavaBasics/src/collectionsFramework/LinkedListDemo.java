@@ -12,6 +12,8 @@ public class LinkedListDemo {
 		cities.add("New York");
 		cities.add("New Delhi");
 		cities.add("Paris");
+		
+		//Adding another comment in LinkedList
 
 		for (String t : cities) {
 			System.out.println(t);
